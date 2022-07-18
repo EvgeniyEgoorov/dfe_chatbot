@@ -1,3 +1,15 @@
-venv
-__pycache__
+*.DS_Store*
+*.egg-info/
+dist/
+venv/
+build/
+*__pycache__*
+*.idea/*
+.idea/*
+*.pyc
+.pytest_cache/*
+venv*
+.vscode
+.coverage
 .pytest_cache
+htmlcov
